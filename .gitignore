@@ -1,0 +1,20 @@
+# Data files (downloaded separately via 00_download_data.R)
+*.csv
+*.rds
+*.xlsx
+
+# R project file
+*.Rproj
+
+# Output figures
+*.png
+*.bmp
+*.pdf
+
+# R session artefacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS artefacts
+.DS_Store
