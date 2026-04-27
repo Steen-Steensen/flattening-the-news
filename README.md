@@ -2,8 +2,7 @@
 
 R scripts for the statistical analysis reported in:
 
-> Steensen et al. (2026). *Flattening the News: Platformisation and the
-> Erosion of Topical Diversity Across News Outlet Types*. **New Media & Society*.
+Steensen, S., Kiberg, H., Kalsnes, B., Ring Olsen, G., & Kavtaradze, L. (2026). Flattening the news: Platformisation and the erosion of topical diversity across news outlet types. *New Media & Society*, 0(0). https://doi.org/10.1177/14614448261430018
 
 ---
 
